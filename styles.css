@@ -1,0 +1,27 @@
+body {
+    background: #f06d06;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    background-color: blue;
+}
+
+.TopBanner2 {
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 2px dashed #333;
+}
+
+.Nav {
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 2px dashed #333;
+}
+
+.footerBackground {
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 2px dashed #333;
+}
